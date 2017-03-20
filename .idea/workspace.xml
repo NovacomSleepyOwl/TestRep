@@ -19,8 +19,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/novacom/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,9 +98,9 @@
         <option value="$PROJECT_DIR$/src/com/novacom/mouse/classes/Button.java" />
         <option value="$PROJECT_DIR$/src/com/novacom/mouse/classes/Table.java" />
         <option value="$PROJECT_DIR$/src/com/novacom/mouse/classes/Mover.java" />
-        <option value="$PROJECT_DIR$/src/com/novacom/Main.java" />
         <option value="$PROJECT_DIR$/src/com/novacom/mouse/MouseClass.java" />
         <option value="$PROJECT_DIR$/src/com/novacom/mouse/classes/WheelButton.java" />
+        <option value="$PROJECT_DIR$/src/com/novacom/Main.java" />
       </list>
     </option>
   </component>
@@ -577,15 +577,15 @@
       <workItem from="1487063028470" duration="2730000" />
       <workItem from="1487066945340" duration="8233000" />
       <workItem from="1487839848677" duration="2384000" />
-      <workItem from="1489997163876" duration="2337000" />
+      <workItem from="1489997163876" duration="2380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19028000" />
+    <option name="totallyTimeSpent" value="19071000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -887,8 +887,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/novacom/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
