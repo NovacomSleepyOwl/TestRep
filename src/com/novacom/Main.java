@@ -16,5 +16,5 @@ public class Main {
         System.out.println("______________");
         table.DrawTable(mouse.getPointRow(), mouse.getPointColumn());
 
-    }//afwg
+    }//commited first time in idea
 }
