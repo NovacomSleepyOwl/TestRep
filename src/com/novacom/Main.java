@@ -17,5 +17,5 @@ public class Main {
         table.DrawTable(mouse.getPointRow(), mouse.getPointColumn());
 
     }//commited first time in idea
-    // pass changed
+    //    pass changed
 }
